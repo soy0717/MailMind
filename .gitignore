@@ -2,6 +2,11 @@
 __pycache__/
 *.pyc
 
-# Raw data — do not push real emails (privacy + size)
+# Compiled binaries
+c_engine/preprocess.exe
+
+# Raw data
 data/emails_clean.csv
 data/emails_new.csv
+data/processed_emails.csv
+data/raw_emails.tsv
