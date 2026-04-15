@@ -1,7 +1,11 @@
 scikit-learn
 pandas
 numpy
-matplotlib
-seaborn
 joblib
 gensim
+matplotlib
+seaborn
+sentence-transformers
+transformers
+torch
+imbalanced-learn
