@@ -13,3 +13,6 @@ data/raw_emails.tsv
 
 # Trained models
 models/*.joblib
+
+# Generated experiment outputs
+experiments/results/
