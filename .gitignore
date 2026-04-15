@@ -10,3 +10,6 @@ data/emails_clean.csv
 data/emails_new.csv
 data/processed_emails.csv
 data/raw_emails.tsv
+
+# Trained models
+models/*.joblib
