@@ -16,3 +16,7 @@ models/*.joblib
 
 # Generated experiment outputs
 experiments/results/
+
+# Agent state logs
+ui/agent_state/feedback_log.csv
+ui/agent_state/confirmation_log.csv
