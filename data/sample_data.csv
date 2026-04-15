@@ -1,0 +1,6 @@
+senderEmail,receiverEmail,timestamp,subject,content,trueDomain
+student01@university.edu,placement@university.edu,2024-01-10 09:15:00,Internship Opportunity Inquiry,Hi I wanted to ask about the upcoming internship drive and how to register for it.,01_PC
+prof.smith@university.edu,student02@university.edu,2024-01-11 14:30:00,Assignment 3 Deadline Extended,Dear students the deadline for Assignment 3 has been extended to next Friday.,02_AC
+registrar@university.edu,student03@university.edu,2024-01-12 08:00:00,Mid-Semester Exam Schedule,Please find attached the mid-semester examination timetable for your reference.,03_ER
+hostel@university.edu,student04@university.edu,2024-01-13 11:45:00,Hostel Maintenance Notice,The hot water supply in Block B will be unavailable on Saturday for routine maintenance.,04_CS
+club.events@university.edu,student05@university.edu,2024-01-14 16:00:00,Cultural Fest Auditions This Weekend,Auditions for the annual cultural fest are happening this Saturday. All are welcome to participate.,05_EC

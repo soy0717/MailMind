@@ -1,0 +1,7 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Raw data — do not push real emails (privacy + size)
+data/emails_clean.csv
+data/emails_new.csv
